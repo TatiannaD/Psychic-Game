@@ -1,0 +1,33 @@
+body {
+	background-color: black;
+	margin: 60px;
+
+}
+
+h1 {
+	color: #4aaaa5;
+	margin-left: 40px;
+
+}
+
+h1.hr {
+		color: #4aaaa5;
+		width: 45px;
+}
+
+h2,h3, h4 {
+	color: white;
+}
+
+h1,h2,h3,h4 {
+	margin-left: 20px;
+}
+
+p {
+	color: #4aaaa5;
+}
+
+.container {
+	border: 3px solid #4aaaa5;
+
+}
